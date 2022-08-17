@@ -2,7 +2,7 @@
   "name": "pomodoro",
   "version": "1.0.0",
   "description": "Pomodoro Application",
-  "author": "Olga Filipova <chudaol@gmail.com>",
+  "author": "Oyekanmi Oyetunji",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
